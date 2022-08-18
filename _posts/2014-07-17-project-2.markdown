@@ -5,7 +5,7 @@ date: 2014-07-17
 img: tictactoe.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: https://github.com/DPHHSCodingClub/Tic-Tac-Toe
 category: Web Development
 description: Code up your favorite childhood game and play against your friends!
 ---
