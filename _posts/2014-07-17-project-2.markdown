@@ -2,7 +2,6 @@
 layout: default
 title: Tic-Tac-Toe
 modal-id: 2
-date: 2014-07-17
 img: tictactoe.png
 alt: image-alt
 project-date: April 2014
