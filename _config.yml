@@ -32,9 +32,9 @@ color:
 # Footer settings
 footer:
   copyright: DPHHS Coding Club
-  location: Manhattan
+  location: Time and Place
   social: Around the Web
-  credits: Credits
+  credits: Acknowledgements
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,11 +51,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Democracy Prep Harlem High School
+  - line: Thursdays 3:40pm-4:40pm
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'We would like to thank the Physics department as well as the Arts and Sciences Graduate Council at Columbia University for their generous support.'
 
 # Build settings
 markdown: kramdown
