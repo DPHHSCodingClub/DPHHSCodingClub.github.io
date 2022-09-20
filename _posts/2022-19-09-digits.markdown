@@ -1,8 +1,9 @@
 ---
 layout: default
 modal-id: 5
+title: Digit Classification
 img: digits.png
 alt: image-alt
-client: Start Bootstrap
+client: https://github.com/DPHHSCodingClub/digits
 description: Train a computer to "read" handwritten digits by means of machine learning!
 ---
