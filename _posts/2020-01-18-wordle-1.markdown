@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-img: cabin.png
+img: wordle.png
 alt: image-alt
 client: Wordle
 description: What if you want to play more than once a day? Code your own version!
