@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Wordle
 modal-id: 1
-img: wordle.png
+date: 2020-01-18
+img: cabin.png
 alt: image-alt
-client: https://github.com/DPHHSCodingClub/Wordle
-description: Tired of only playing once a day? Code up your own version!
+project-date: January 2020
+client: The Client
+category: Web Development
+description: The description of the project
 ---
