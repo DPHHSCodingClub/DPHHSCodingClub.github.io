@@ -4,8 +4,6 @@ title: Tic-Tac-Toe
 modal-id: 2
 img: tictactoe.png
 alt: image-alt
-project-date: April 2014
 client: https://github.com/DPHHSCodingClub/Tic-Tac-Toe
-category: Web Development
 description: Code up your favorite childhood game and play against your friends!
 ---
