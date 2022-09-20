@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 4
+title: Spotify Data
+img: spotify.png
+alt: image-alt
+client: https://github.com/DPHHSCodingClub/spotify
+description: Inspect Spotify's top hits playlists and see what we can learn!
+---
