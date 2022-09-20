@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Wordle
 modal-id: 1
 img: wordle.png
 client: https://github.com/DPHHSCodingClub/Wordle
