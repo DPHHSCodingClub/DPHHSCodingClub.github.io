@@ -1,3 +1,18 @@
+
+DPHHS Coding Club front-facing webpage
+======================================
+
+This repository currently hosts a static redirect to our most up-to-date
+website at [https://tinyurl.com/dphhs](https://tinyurl.com/dphhs).
+
+The Jekyll website (created Fall 2022) has been mothballed, but it can be
+restored with the following commands:
+
+    mv index.html        index-redirect.html
+    mv index-jekyll.html index.html
+    rm .nojekyll
+
+
 Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
 =========================
 
